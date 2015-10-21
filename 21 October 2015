@@ -28,3 +28,7 @@ P(polyphasic_success) = P(coffee_before_after) * P(dota2) * P(multiple_distance_
 * Update the weights according to the reinforcement step. Keep collecting data on mean accuracy etc and plot it in realtime w.r.t time.
 * Also start the cold water bowl method and karaoke as alternative acitivities for adaptation.
 * Wash the dished :D
+
+## What done?
+* Read and understood part of the paper.
+* Played dota 2
