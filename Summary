@@ -1,4 +1,4 @@
-P(polyphasic_success) = P(coffee_before_after?) * P(dota2) * P(multiple_distance_math_alarms?) * P(ice_water_bowl?) * P(logging?)
+P(polyphasic_success) = P(coffee_before_after?) * P(dota2) * P(multiple_distance_x_y_math_alarms?) * P(ice_water_bowl?) * P(logging?)
 
 I'll update this if i think of something else.
 
