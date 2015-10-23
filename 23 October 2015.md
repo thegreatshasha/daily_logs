@@ -26,4 +26,5 @@
 * 4:50: 5 questions Zone again.
 * 5:29: Had to go on a trip with dad. Time wasted but it's okay.
 * 6:15: Full zone again. Feeling great. One of the key things about zone is not to place constraint on youself on how many problems to do and go with the flow. You'll know yourself when you are ready.
-* &:01: Alright! understood theory. Now on to pseudocode and implementation. Giggity Giggity Goo! Zone is awesome!
+* 7:01: Alright! understood theory. Now on to pseudocode and implementation. Giggity Giggity Goo! Zone is awesome!
+* 9:03: Woah two hours just gone by like that. All right i'll start with the algo at 10:00. Should prepare coffee and everything else around 9:45. Time to do some electronics!
