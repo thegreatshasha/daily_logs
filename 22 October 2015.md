@@ -16,3 +16,5 @@
 * Understand how the preprocessing is done, checkout a basic version of the code and try to understand what they are doing.
 * Make notes on what they have done and start writing your own implementation in python.
 * Start writing a blog post on it.
+
+## Micrologs

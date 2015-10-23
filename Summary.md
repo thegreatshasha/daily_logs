@@ -1,4 +1,4 @@
-# P(polyphasic_success) = P(coffee_before_after?) * P(dota2) * P(multiple_distance_x_y_math_alarms?) * P(ice_water) * P(logging?)
+### P(success) = P(coffee_before_after?) * P(dota2) * P(multiple_distance_x_y_math_alarms?) * P(ice_water?) * P(logging?)
 
 I'll update this if i think of something else.
 
@@ -21,6 +21,8 @@ Giant List of Activities to do:
 ## Tips
 * You'll never succeed if you don't follow your own method so Be rigororus.
 * Keep everything prepared before the nap
+* What's the use of poly sleep if you don't churn out as much as possible from everyday.
+* Do micro logging so that you log everything. Log everything, your assumptions, when you waste time, when you step off from work experiences etc in an accessible structured format. 
 
 ## Schedule
 * COffee n 5 mental math probs to get into the zone.
