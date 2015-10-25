@@ -21,6 +21,8 @@ Giant List of Activities to do:
 ## Tips
 * You'll never succeed if you don't follow your own method so Be rigororus.
 * Keep everything prepared before the nap
+* SHower daily while attempting polyphasic sleep to keep resolve and rigor at maximum. Keep the schedule like this-> Alarm->Shower->Coffee and Zone
+* Try to get eating done in the end of each nap.
 * What's the use of poly sleep if you don't churn out as much as possible from everyday.
 * Do micro logging so that you log everything. Log everything, your assumptions, when you waste time, when you step off from work experiences etc in an accessible structured format. 
 
