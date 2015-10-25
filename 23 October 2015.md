@@ -28,3 +28,4 @@
 * 6:15: Full zone again. Feeling great. One of the key things about zone is not to place constraint on youself on how many problems to do and go with the flow. You'll know yourself when you are ready.
 * 7:01: Alright! understood theory. Now on to pseudocode and implementation. Giggity Giggity Goo! Zone is awesome!
 * 9:03: Woah two hours just gone by like that. All right i'll start with the algo at 10:00. Should prepare coffee and everything else around 9:45. Time to do some electronics!
+* 3:07: Going to sleep now. Too tired to try out coffee and water bowl, should have brought it here beforehand. Have set two alarms n am logging. Let's see how it goes.
