@@ -1,4 +1,4 @@
-### P(success) = P(coffee_before_after?) * P(multiple_distance_x_y_math_alarms?) * P(logging?)
+### P(success) = P(coffee_before_after?) * P(4_distance_x_y_math_alarms?) * P(logging?) * P(single_chair)
 
 I'll update this if i think of something else.
 
