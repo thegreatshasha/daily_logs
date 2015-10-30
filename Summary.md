@@ -18,6 +18,10 @@ Giant List of Activities to do:
 * Exercise and pushups. Fairly obvious.
 * Music: Try buying a keyboard
 
+## Productivity
+* Coffee seems to be directly correlated to maximum productivity.
+* Full zone. Directly related to intensity. Have to experiment between timed vs untimed bigger calculations.
+
 ## Tips
 * You'll never succeed if you don't follow your own method so Be rigororus.
 * Keep everything prepared before the nap

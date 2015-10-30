@@ -7,6 +7,8 @@
 
 ## Productivity
 * Figured out how to use keras by y' trick
+* Did two transistor led flasher \m/
+* Managed to sleep on one chair
 
 ## Plan
 * Write part 1 feedforward code, then recording, then gradient code.
@@ -19,3 +21,6 @@
 * 13:19: Awake now. Zone and starting work. Let's make this day hyperproductive!
 * 16:05: Attempting zone again. Wierd that i feel so tired. Partial zone.
 * 19:00: Ok zone again. Writing the rest of the shit. Let's get it done in one go.
+* 19:45: Struggling but i'll figure this out.
+* 20:12: Don't really feel like working right now. Taking a break for half an hour.
+* 22:00: Have to restart working.
