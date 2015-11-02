@@ -16,4 +16,5 @@
 ## Micrologs
 * 12:10: Awake now.
 * 13:22: Ok am thinking faster n better. Key is better sleep. Time to finish the feedforward code,
-* 20:12: Feeling 
+* 20:12: Feeling tired. Will continue coffee zone at 10:00pm nap. Should finish dinner, chilling and any form of relaxation before.
+* 01:47: Still awake. Wohoo!. Sharingan! 
