@@ -36,3 +36,21 @@ Giant List of Activities to do:
 * Switch to pool of activities around 1 hr before or earlier in the night.
 
 I'll add more as i think of them.
+
+## Goal: Maintain <= 3 hours of sleep for the following days. Should be sufficient for poly sleep.
+
+### 3 November 2015: 10 hours
+### 4 November 2015: 10 hours
+### 5 November 2015:
+### 6 November 2015:
+### 7 November 2015:
+### 8 November 2015:
+### 9 November 2015:
+### 10 November 2015: 
+
+## Moving Average 1: 10 hours
+## Moving Average 2: 
+## Moving Average 3:
+## Moving Average 4:
+
+

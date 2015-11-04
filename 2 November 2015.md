@@ -10,4 +10,5 @@
 
 ## Micrologs
 * 14:00: Awake now.
-* 15:45: Working on
+* 15:45: Going to get coffee. Will start zone at 5:30
+* 18:43: Trying out modafinil 100mg 
