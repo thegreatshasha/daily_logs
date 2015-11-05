@@ -28,7 +28,8 @@ Giant List of Activities to do:
 * SHower daily while attempting polyphasic sleep to keep resolve and rigor at maximum. Keep the schedule like this-> Alarm->Shower->Coffee and Zone
 * Try to get eating done in the end of each nap.
 * What's the use of poly sleep if you don't churn out as much as possible from everyday.
-* Do micro logging so that you log everything. Log everything, your assumptions, when you waste time, when you step off from work experiences etc in an accessible structured format. 
+* Do micro logging so that you log everything. Log everything, your assumptions, when you waste time, when you step off from work experiences etc in an accessible structured format.
+* Use gitxiv for research papers. Start reading a lot of research papers.
 
 ## Schedule
 * COffee n 5 mental math probs to get into the zone.

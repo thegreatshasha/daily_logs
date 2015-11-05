@@ -3,7 +3,9 @@
 * Should stick with the chair until i get the moving average for 7 days to 3.
 
 ## Productivity
-* Ring buffer implementation
+* Ring buffer implementation.
+* Ring buffer performance test.
+* Quite productive day. Worked very hard today.
 
 ## Plan
 * Coffee/Modalert + Exercise + Mental math = zone
@@ -22,3 +24,9 @@
 * 00:31: Can feel the affects
 * 1:15: Exercise. Having coffee + getting into zone now in 10 mins. Then continuing work on ring buffer.
 * 1:46: 3 zone. Exercise does help. Didn't have coffee. Let's see how productivity is. Resuming work on ring buffer.
+* 1:52: How to get index?
+* 3:58: Ring buffer performance test is complete but strangely it seems to be performing worse than the deque implementation. Which is strange since i assumed it should be blazingly fast.
+* 4:05: Had another modafinil. Let's see how long till it kicks in.
+* 4:08: Feeling clearer already. Just might be able to sleep..
+* 5:35: Ok having some more coffee and working on performance test in half an hour. Wish every other day was as productive as this :)
+* 8:05: Trying to write a cython version to see how much faster it is. Just for fun :)
