@@ -24,12 +24,13 @@ Giant List of Activities to do:
 
 ## Tips
 * You'll never succeed if you don't follow your own method so Be rigororus.
+* Mental math is the primal constituent of the zone. Rest are catalysts.
 * Keep everything prepared before the nap
-* SHower daily while attempting polyphasic sleep to keep resolve and rigor at maximum. Keep the schedule like this-> Alarm->Shower->Coffee and Zone
-* Try to get eating done in the end of each nap.
 * What's the use of poly sleep if you don't churn out as much as possible from everyday.
 * Do micro logging so that you log everything. Log everything, your assumptions, when you waste time, when you step off from work experiences etc in an accessible structured format.
 * Use gitxiv for research papers. Start reading a lot of research papers.
+* Salvador dali's trick is rather useful when extremely sleep deprived. Kind of puts you in an okay state.
+* Keep learning mathematical theory everyday. Theory must never stop since it's the origin of everything
 
 ## Schedule
 * COffee n 5 mental math probs to get into the zone.
@@ -42,8 +43,8 @@ I'll add more as i think of them.
 
 ### 3 November 2015: 10 hours
 ### 4 November 2015: 10 hours
-### 5 November 2015:
-### 6 November 2015:
+### 5 November 2015: 1 hour
+### 6 November 2015:  
 ### 7 November 2015:
 ### 8 November 2015:
 ### 9 November 2015:
