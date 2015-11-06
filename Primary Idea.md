@@ -19,7 +19,8 @@ Raise threat levels through a combination of user's threat level
 * Airport threat assesment by comparison with existing terrorist databases.
 * Bank threat assesment.
 * Monitor elderly people and kids in nursing homes. Threat if they fall down etc.
-* Detect traffic accidents on the streets and send emergency alert to hospitals.
+* Road safety: Detect collisions, traffic accidents on the streets and send emergency alert to hospitals.
+* Detect 
 
 ## ThinkList
 * Write this like a research paper.
@@ -34,6 +35,7 @@ Raise threat levels through a combination of user's threat level
 * Does our actor recognizer work even in the night with infrared cameras?
 * Turn on lights etc in the area, sound alarms
 * For the cloud streaming feature, you can google up on meerkat, periscope etc's tech stack since they have nice 
+* Make it smarter by adding focus on key event functionality. Restore to normal after key event gone.
 
 ## Potential Issues
 * How easy is the criminal database to find? Might be tougher in a country like India. How frequently is it updated?
@@ -41,6 +43,8 @@ Raise threat levels through a combination of user's threat level
 * Architecture of the neural nets. Do we need 3 of the time. How much time does it take for a feedforward pass?
 * Internet connectivity: Do each of the smart cams have enough bandwidth to operate. How much band
 * Video storage + Image storage.
+* How safe are the video and image storage since historical values are of very high value here.
+* Read up on live video architecture
 
 ## Competitor and what are you better
 * Smart cctv https://smartcctvfrs.wordpress.com/2015/03/06/your-face-becomes-a-barcode-algorithmic-surveillance/
