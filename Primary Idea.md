@@ -6,8 +6,10 @@ Have a default threat level for each actor. Terrorists + People with prior crimi
 Raise threat levels through a combination of user's threat level
 
 # Components
-* Actor database: Have a databse of actors. Actors all have bayesian threat levels. Don't know if we need support for non human actors.
-* Identity Recogniser: The identity recogniser tells the most likely match in the actor databse
+* Actor database: Have a databse of actors. Actors all have bayesian threat levels as well as any other useful info. Don't know if we need support for non human actors.
+* Identity Recogniser: The identity recogniser tells the most likely match in the actor databse.
+* Activity Mapper: The activity mapper tells you the activity going on from a dataset of activites. Each activity has a threat level. For eg combat is a high threat activity.
+* 
 
 # Applications
 * Activity threat coupled with Actor history allows you to predict criminal 
@@ -26,7 +28,11 @@ Raise threat levels through a combination of user's threat level
 * Discuss this idea with profs etc.
 * Does our actor recognizer work even in the night with infrared cameras?
 * Turn on lights etc in the area, sound alarms
-* Allow collecting with 
+* Allow collecting with
+
+# Potential Issues
+* How easy is the criminal database to find? Might be tougher in a country like India. How frequently is it updated?
+* 
 
 # Competitor
 * Smart cctv https://smartcctvfrs.wordpress.com/2015/03/06/your-face-becomes-a-barcode-algorithmic-surveillance/
