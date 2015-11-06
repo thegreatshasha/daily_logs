@@ -10,13 +10,16 @@ Raise threat levels through a combination of user's threat level
 * Identity Recogniser: The identity recogniser tells the most likely match in the actor databse.
 * Activity Mapper: The activity mapper tells you the activity going on from a dataset of activites. Each activity has a threat level. For eg combat is a high threat activity.
 * Miscellaneous Event Recogniser: Recognize events like fire which don't have an actor. This needs to be improved upon.
+* Notifier: Notify people of the threat along with the assesment level.
 
 ## Applications
 * Activity threat coupled with Actor history allows you to predict criminal 
 * Detect key events like fighting, fire, tresspassing,  
-* Government city wide surveillance.
+* Government city wide surveillance. Smart city.
 * Airport threat assesment by comparison with existing terrorist databases.
 * Bank threat assesment.
+* Monitor elderly people and kids in nursing homes. Threat if they fall down etc.
+* Detect traffic accidents on the streets and send emergency alert to hospitals.
 
 ## ThinkList
 * Write this like a research paper.
@@ -29,11 +32,11 @@ Raise threat levels through a combination of user's threat level
 * Discuss this idea with profs etc.
 * Does our actor recognizer work even in the night with infrared cameras?
 * Turn on lights etc in the area, sound alarms
-* Allow collecting with
 
 # Potential Issues
 * How easy is the criminal database to find? Might be tougher in a country like India. How frequently is it updated?
 * Will the intelligence layer be on the cloud or each individual webcam.
+* Dealing with 
 
 # Competitor
 * Smart cctv https://smartcctvfrs.wordpress.com/2015/03/06/your-face-becomes-a-barcode-algorithmic-surveillance/
