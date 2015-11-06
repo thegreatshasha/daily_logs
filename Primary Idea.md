@@ -10,7 +10,7 @@ Raise threat levels through a combination of user's threat level
 * Identity Recogniser: The identity recogniser tells the most likely match in the actor databse.
 * Activity Mapper: The activity mapper tells you the activity going on from a dataset of activites. Each activity has a threat level. For eg combat is a high threat activity.
 * Miscellaneous Event Recogniser: Recognize events like fire which don't have an actor. This needs to be improved upon.
-* Notifier: Notify people of the threat along with the assesment level.
+* Notifier: Notify people of the threat along with the assesment level. Support for sms, email, in app notifications.
 
 ## Applications
 * Activity threat coupled with Actor history allows you to predict criminal 
@@ -23,6 +23,7 @@ Raise threat levels through a combination of user's threat level
 
 ## ThinkList
 * Write this like a research paper.
+* How can we apply this to services like periscope, meerkat? Can this help in indexing the videos somehow?
 
 * Have to compare with existing approaches.
 * Find out which companies use cctv control rooms. Should be a good application.
@@ -32,16 +33,19 @@ Raise threat levels through a combination of user's threat level
 * Discuss this idea with profs etc.
 * Does our actor recognizer work even in the night with infrared cameras?
 * Turn on lights etc in the area, sound alarms
+* For the cloud streaming feature, you can google up on meerkat, periscope etc's tech stack since they have nice 
 
-# Potential Issues
+## Potential Issues
 * How easy is the criminal database to find? Might be tougher in a country like India. How frequently is it updated?
 * Will the intelligence layer be on the cloud or each individual webcam.
-* Dealing with 
+* Architecture of the neural nets. Do we need 3 of the time. How much time does it take for a feedforward pass?
+* Internet connectivity: Do each of the smart cams have enough bandwidth to operate. How much band
+* Video storage + Image storage.
 
-# Competitor
+## Competitor and what are you better
 * Smart cctv https://smartcctvfrs.wordpress.com/2015/03/06/your-face-becomes-a-barcode-algorithmic-surveillance/
+* https://nest.com/camera/meet-nest-cam/
 * https://www.youtube.com/watch?v=aG7V7_zowZU
+* 
 
-# Existing Approaches
-
-# How this is better
+## References

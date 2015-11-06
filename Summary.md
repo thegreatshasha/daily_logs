@@ -32,6 +32,7 @@ Giant List of Activities to do:
 * Salvador dali's trick is rather useful when extremely sleep deprived. Kind of puts you in an okay state.
 * Keep learning mathematical theory everyday. Theory must never stop since it's the origin of everything
 * If bored u can see videos on some unrelated science stuff.
+* Try to improve on your project ideas everyday.
 
 ## Schedule
 * COffee n 5 mental math probs to get into the zone.
