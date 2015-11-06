@@ -31,6 +31,7 @@ Giant List of Activities to do:
 * Use gitxiv for research papers. Start reading a lot of research papers.
 * Salvador dali's trick is rather useful when extremely sleep deprived. Kind of puts you in an okay state.
 * Keep learning mathematical theory everyday. Theory must never stop since it's the origin of everything
+* If bored u can see videos on some unrelated science stuff.
 
 ## Schedule
 * COffee n 5 mental math probs to get into the zone.
@@ -44,7 +45,7 @@ I'll add more as i think of them.
 ### 3 November 2015: 10 hours
 ### 4 November 2015: 10 hours
 ### 5 November 2015: 1 hour
-### 6 November 2015:  
+### 6 November 2015:  4 hour
 ### 7 November 2015:
 ### 8 November 2015:
 ### 9 November 2015:
