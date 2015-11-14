@@ -13,6 +13,8 @@ Raise threat levels through a combination of user's threat level
 * Notifier: Notify people of the threat along with the assesment level. Support for sms, email, in app notifications.
 
 ## Applications
+* Baby monitor
+* Pet monitor
 * Activity threat coupled with Actor history allows you to predict criminal 
 * Detect key events like fighting, fire, tresspassing,  
 * Government city wide surveillance. Smart city.
@@ -36,6 +38,7 @@ Raise threat levels through a combination of user's threat level
 * Turn on lights etc in the area, sound alarms
 * For the cloud streaming feature, you can google up on meerkat, periscope etc's tech stack since they have nice 
 * Make it smarter by adding focus on key event functionality. Restore to normal after key event gone.
+* Can we use raspberry pi gpu in order to 
 
 ## Potential Issues
 * How easy is the criminal database to find? Might be tougher in a country like India. How frequently is it updated?
@@ -46,10 +49,15 @@ Raise threat levels through a combination of user's threat level
 * How safe are the video and image storage since historical values are of very high value here.
 * Read up on live video architecture
 
-## Competitor and what are you better
+## Competitor and what are you better at
 * Smart cctv https://smartcctvfrs.wordpress.com/2015/03/06/your-face-becomes-a-barcode-algorithmic-surveillance/
 * https://nest.com/camera/meet-nest-cam/
 * https://www.youtube.com/watch?v=aG7V7_zowZU
 * 
 
+## Prototype Iterations
+* v1: Just the cloud based camera
+* v2: Activity detection for baby monitor, elderly monitor
+
 ## References
+https://www.facebook.com/Engineering/videos/10153621574817200/
